@@ -44,7 +44,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
-  octokit (= 2.0)
+  octokit (~> 2.0)
   pry
   rspec
   sinatra (= 1.4.4)

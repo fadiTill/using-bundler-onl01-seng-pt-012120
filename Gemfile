@@ -1,6 +1,6 @@
 
 
-class Gemfile
+
   def gemfile_text
 source "https://rubygems.org"
 gem "rspec"
